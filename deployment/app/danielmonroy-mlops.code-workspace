@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "danielmonroy-mlops",
+			"path": "../../../../../danielmonroy-mlops"
+		},
+		{
+			"name": "deployment",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
